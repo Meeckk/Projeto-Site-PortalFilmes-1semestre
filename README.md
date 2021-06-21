@@ -22,7 +22,7 @@ Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja r
 
 `Pontuação alcançada:` 19,7/20.
 
-![Pntuação](imagens/pontuacao1DIW.jpeg)
+![Pntuação](img/pontuacao1DIW.jpeg)
 
 `CRITÉRIO 1`: Conformidade com o Wireframe:
 
