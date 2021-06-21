@@ -36,6 +36,8 @@ Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja r
 
 ### Segunda etapa 
 
+Nesse trabalho, vamos dar vida ao layout desenvolvido no trabalho anterior. Vamos apresentar informações reais sobre os filmes obtidas dinamicamente a partir da integração com a API The Movie DB
+
 #### Requisitos do Projeto
 
 O site que você fará deve atender aos seguintes requisitos: 
