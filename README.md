@@ -18,7 +18,7 @@ Para a construção do projeto foi dividido em duas etapas sendo elas:
 
 ### Primeira Etapa
 
-Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais. Sugerimos para isso, utilizar imagens de sites reais sobre filmes.
+Nesta etapa, vamos montar o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais. Sugerimos para isso, utilizar imagens de sites reais sobre filmes.
 
 #### Critérios de Avaliação
 
@@ -36,7 +36,7 @@ Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja r
 
 ### Segunda etapa 
 
-Nesse trabalho, vamos dar vida ao layout desenvolvido no trabalho anterior. Vamos apresentar informações reais sobre os filmes obtidas dinamicamente a partir da integração com a API The Movie DB
+Nesta etapa, vamos dar vida ao layout desenvolvido no trabalho anterior. Vamos apresentar informações reais sobre os filmes obtidas dinamicamente a partir da integração com a API The Movie DB
 
 #### Requisitos do Projeto
 
