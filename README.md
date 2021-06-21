@@ -20,6 +20,8 @@ Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja r
 
 #### Critérios de Avaliação
 
+![Pntuação](imagens/pontuacao1DIW.jpeg)
+
 `CRITÉRIO 1`: Conformidade com o Wireframe:
 
 - 5 pontos - O aluno seguiu orientações do wireframe, realizando incrementos ou alterações que melhoraram a estrutura de componentes do portal;
