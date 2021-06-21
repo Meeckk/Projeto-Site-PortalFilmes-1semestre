@@ -10,13 +10,13 @@
 
 Primeiro trabalho pratico da matéria Desenvolvimento de Interfaces Web, colocando em pratica o que foi estudado durante o primeiro semestre do Curso de Sistemas de Informação. O trabalho foi desenvolvido com duas etapas, sendo a primeira Front-end com HTML e CSS (e também o uso de algumas bibliotecas como Boostrap e Jquery). E a segunda etapa o Back-end com Java Script, JSON e também o uso de uma API (The Movie DB).
 
-Nesta atividade, é montado o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais.
-
 ## Etapas
 
-Para a construção do projeto foram exigidos os seguintes critérios:
+Para a construção do projeto foi dividido em duas etapas sendo elas:
 
 ### Primeira Etapa
+
+Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais. Sugerimos para isso, utilizar imagens de sites reais sobre filmes.
 
 `CRITÉRIO 1`: Conformidade com o Wireframe:
 
@@ -38,4 +38,4 @@ CRITÉRIO 3: Responsividade do Site:
 5 pontos - Responsividade parcial: Somente alguns componentes ou elementos HTML se adaptam ao formato móvel, mas o sistema de Grid do Bootstrap está funcional no Desktop;
 0 pontos - O site não apresenta uma responsividade.
 
-
+### Segunda etapa 
