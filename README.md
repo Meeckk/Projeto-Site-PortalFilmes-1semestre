@@ -18,25 +18,27 @@ Para a construção do projeto foi dividido em duas etapas sendo elas:
 
 Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais. Sugerimos para isso, utilizar imagens de sites reais sobre filmes.
 
+### Critérios de Avaliação
+
 `CRITÉRIO 1`: Conformidade com o Wireframe:
 
-5 pontos - O aluno seguiu orientações do wireframe, realizando incrementos ou alterações que melhoraram a estrutura de componentes do portal;
-2,5 pontos - Seguiu parcialmente o wireframe;
-0 pontos - Não seguiu o wireframe.
+- 5 pontos - O aluno seguiu orientações do wireframe, realizando incrementos ou alterações que melhoraram a estrutura de componentes do portal;
+- 2,5 pontos - Seguiu parcialmente o wireframe;
+- 0 pontos - Não seguiu o wireframe.
 CRITÉRIO 2: Conteúdo:
 
 `CRITÉRIO 2:` Conteúdo:
 
-5 pontos - Conteúdos reais para o site: Utilizou imagens, textos, vídeos que contemplam o cenário real de mercado do site;
-2,5 pontos - Conteúdos Fictícios: Utilizou conteúdos fictícios (placeholder) para simular a estrutura do site;
-0 pontos - Ausência de conteúdos nos componentes: Componentes sem preenchimento dos conteúdos.
+- 5 pontos - Conteúdos reais para o site: Utilizou imagens, textos, vídeos que contemplam o cenário real de mercado do site;
+- 2,5 pontos - Conteúdos Fictícios: Utilizou conteúdos fictícios (placeholder) para simular a estrutura do site;
+- 0 pontos - Ausência de conteúdos nos componentes: Componentes sem preenchimento dos conteúdos.
 CRITÉRIO 3: Responsividade do Site:
 
 `CRITÉRIO 3:` Responsividade do Site:
 
-10 pontos - Responsividade funcional: O site apresenta adaptação e adequação de conteúdos para a versão mobile. Componentes se adaptam ao tamanho, imagem segue o padrão do grid, conteúdo ajusta a resolução com uso correto de media queries;
-5 pontos - Responsividade parcial: Somente alguns componentes ou elementos HTML se adaptam ao formato móvel, mas o sistema de Grid do Bootstrap está funcional no Desktop;
-0 pontos - O site não apresenta uma responsividade.
+- 10 pontos - Responsividade funcional: O site apresenta adaptação e adequação de conteúdos para a versão mobile. Componentes se adaptam ao tamanho, imagem segue o padrão do grid, conteúdo ajusta a resolução com uso correto de media queries;
+- 5 pontos - Responsividade parcial: Somente alguns componentes ou elementos HTML se adaptam ao formato móvel, mas o sistema de Grid do Bootstrap está funcional no Desktop;
+- 0 pontos - O site não apresenta uma responsividade.
 
 ### Segunda etapa 
 
@@ -57,3 +59,20 @@ O site que você fará deve atender aos seguintes requisitos:
 - o resultado da pesquisa poderá ser paginado ou não
 - o resultado deve mostrar uma lista de itens tal qual a home-page com imagem e textos que descrevam o item retornado
 - os itens do resultado devem ter um link que ao ser acionado, leve o usuário para a página original do referido item, cujo link é obtido por meio da API do The Movie DB.
+
+### Critérios de Avaliação
+
+`CRITÉRIO 1:` Formato e responsividade:
+- 4 pontos - Responsividade funcional: O site apresenta adaptação e adequação de conteúdos para a versão mobile e desktop. Componentes se adaptam ao tamanho, imagem segue o padrão do grid, conteúdo ajusta a resolução com uso correto de media queries;
+- 2,0 pontos - Responsividade parcial: Somente alguns componentes ou elementos HTML se adaptam ao formato móvel, mas o sistema de Grid do Bootstrap está funcional no Desktop;
+- 0 pontos - Sem responsividade - O site não apresenta uma responsividade.
+
+`CRITÉRIO 2:` Home-page dinâmica integrada com API:
+
+- 10 pontos - Home-page com listagem de itens e páginas adicional para visualizar as informações detalhadas de um item ao ser clicado 
+Home-Page dinâmica integrada com a API The Movie DB, apresentando os itens a partir dos dados obtidos da API, com a imagem representativa de cada item e os textos descritivos. Ao clicar no item exibido na Home-Page, o usuário visualiza as informações detalhadas em uma página específica feita pelo aluno para o este projeto;
+- 7 pontos - Home-page com listagem de itens e link para página externa
+Home-Page dinâmica integrada com a API The Movie DB, apresentando os itens a partir dos dados obtidos da API, com a imagem representativa de cada item e os textos descritivos. Ao clicar no item exibido na Home-Page, o usuário é direcionado para uma página externa associada ao item. 
+- 4 pontos - Home-page com listagem de itens e alguns defeitos
+Home-Page dinâmica integrada com a API The Movie DB, apresentando os itens a partir dos dados obtidos da API, porém com alguns defeitos na montagem ou sem link que permita verificar detalhes do item.
+- 0 ponto - Site estático: Site não integrado com API The Movie DB ou apresentando mensagens de erro.
