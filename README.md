@@ -39,3 +39,5 @@ CRITÉRIO 3: Responsividade do Site:
 0 pontos - O site não apresenta uma responsividade.
 
 ### Segunda etapa 
+
+#### Requisitos do Projeto
