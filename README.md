@@ -12,7 +12,7 @@ Primeiro trabalho pratico da matéria Desenvolvimento de Interfaces Web, colocan
 
 Nesta atividade, é montado o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais.
 
-## Critérios
+## Etapas
 
 Para a construção do projeto foram exigidos os seguintes critérios:
 
