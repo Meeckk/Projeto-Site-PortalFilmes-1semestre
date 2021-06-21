@@ -18,7 +18,7 @@ Para a construção do projeto foi dividido em duas etapas sendo elas:
 
 Nesta atividade, vamos montar o layout de um site de Portal de Filmes que seja responsivo e se adeque corretamente a telas de diferentes dispositivos. O site a ser criado é estático e você deve preencher cada seção com exemplos reais para marcar os locais onde virão os conteúdos reais. Sugerimos para isso, utilizar imagens de sites reais sobre filmes.
 
-### Critérios de Avaliação
+#### Critérios de Avaliação
 
 `CRITÉRIO 1`: Conformidade com o Wireframe:
 
@@ -60,7 +60,7 @@ O site que você fará deve atender aos seguintes requisitos:
 - o resultado deve mostrar uma lista de itens tal qual a home-page com imagem e textos que descrevam o item retornado
 - os itens do resultado devem ter um link que ao ser acionado, leve o usuário para a página original do referido item, cujo link é obtido por meio da API do The Movie DB.
 
-### Critérios de Avaliação
+#### Critérios de Avaliação
 
 `CRITÉRIO 1:` Formato e responsividade:
 - 4 pontos - Responsividade funcional: O site apresenta adaptação e adequação de conteúdos para a versão mobile e desktop. Componentes se adaptam ao tamanho, imagem segue o padrão do grid, conteúdo ajusta a resolução com uso correto de media queries;
@@ -76,3 +76,11 @@ Home-Page dinâmica integrada com a API The Movie DB, apresentando os itens a pa
 - 4 pontos - Home-page com listagem de itens e alguns defeitos
 Home-Page dinâmica integrada com a API The Movie DB, apresentando os itens a partir dos dados obtidos da API, porém com alguns defeitos na montagem ou sem link que permita verificar detalhes do item.
 - 0 ponto - Site estático: Site não integrado com API The Movie DB ou apresentando mensagens de erro.
+
+`CRITÉRIO 3:` Funcionalidade de Pesquisa integrada com API:
+
+- 6 pontos - Página de Pesquisa totalmente funcional com link para página externa 
+Página de pesquisa que permite ao usuário informar um texto e obter os resultados a partir da API The Movie DB, apresentando os itens com a imagem representativa de cada item e os textos descritivos. Ao clicar em um item dos resultados o usuário é direcionado para uma página externa associada ao item;
+- 3 pontos - Funcionalidade de pesquisa com alguns problemas na montagem dos itens ou no link
+Página de pesquisa funcionando integrada à API The Movie DB, porém com alguns problemas na exibição dos itens ou sem o link do item para página externa
+- 0 ponto - Site sem funcionalidade de pesquisa: Nenhuma funcionalidade de pesquisa no site.
