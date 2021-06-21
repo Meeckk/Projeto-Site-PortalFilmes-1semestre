@@ -8,9 +8,11 @@
 
 `Para acessar o projeto basta clicar no link:` https://meuebook.github.io/MeuEbook.html
 
-## Sobre
+## Sobre / Objetivo
 
 Primeiro trabalho pratico da matéria Desenvolvimento de Interfaces Web, colocando em pratica o que foi estudado durante o primeiro semestre do Curso de Sistemas de Informação. O trabalho foi desenvolvido com duas etapas, sendo a primeira Front-end com HTML e CSS (e também o uso de algumas bibliotecas como Boostrap e Jquery). E a segunda etapa o Back-end com Java Script, JSON e também o uso de uma API (The Movie DB).
+
+Foi desenvolvido um site com a temática de Filmes, mostrando trailers e alguns filmes em cartaz da época da realização do trabalho, comentário sobre os filmes, novidades da época e filmes em cartaz da época, além de uma segunda página com diversos filmes em cartaz com sua sinopse, e ao clicar em ver mais terá a capa do filme e informações sobre o mesmo, além de um link redirecionando para outra pagina com mais informações sobre o filme escolhido.
 
 ## Etapas
 
